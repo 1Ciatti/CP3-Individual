@@ -3,7 +3,7 @@
 Projeto integrador desenvolvido para a disciplina de Computational Thinking em C, englobando structs, manipulação de arquivos texto, passagem de vetores e ordenação por Bubble Sort[cite: 5, 8].
 
 ## Link do Vídeo de Demonstração
-[Link do Vídeo no YouTube (Não-listado)](https://seu-link-do-video-aqui)
+[Link do Vídeo no YouTube (Não-listado)](https://youtu.be/zesUb2_JJM4)
 
 ## Estrutura do Projeto
 - `src/main.c`: Ponto de entrada, menu interativo e gerenciamento de carregamento inicial.
