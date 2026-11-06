@@ -1,5 +1,8 @@
 # Quiz em C - Checkpoint Final (CP3)
 
+# Repositório GitHub
+https://github.com/1Ciatti/CP3-Individual
+
 Projeto integrador desenvolvido para a disciplina de Computational Thinking em C, englobando structs, manipulação de arquivos texto, passagem de vetores e ordenação por Bubble Sort[cite: 5, 8].
 
 ## Link do Vídeo de Demonstração
